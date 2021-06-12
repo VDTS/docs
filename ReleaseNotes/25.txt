@@ -1,1 +1,3 @@
 1: The release page was added and connected to Github release files. Whenever we release a new update, we add its release note page to Github as well. The matched page of the release will fetch from Github to the app Release Page section. You can find "What's new" in the update in that part of the app.
+2: Login page email and password error exception handled  
+3: Null object reference exceptions for all pages handled. 
