@@ -1,0 +1,55 @@
+{
+   "Version":"1.0 - alpha",
+   "Build": "48",
+   "ReleaseNo": "37",
+   "ReleaseBranch": "UI Update",
+   "Content": 
+   [
+        {
+      "Location" : "AppUpdatesPage",
+      "Updates" : "App Updates page shows updates categorized by pages"
+   },
+   {
+      "Location" : "AboutUsPage",
+      "Updates" : "About us page added and now it shows our information"
+   },
+      {
+      "Location" : "EditProfilePage",
+      "Updates" :  "Change password added to edit profile page (Only UI)"
+   },
+      {
+      "Location" : "EditDoctorPage",
+      "Updates" : "Edit Doctor Page added (Only UI)"
+      },
+     ,
+      {
+      "Location" : "EditClinicPage",
+      "Updates" : "Edit Clinic Page added (Only UI)"
+      },
+,
+      {
+      "Location" : "EditMasjeedPage",
+      "Updates" : "Edit Masjeed Page added (Only UI)"
+      },
+,
+      {
+      "Location" : "EditSchoolPage",
+      "Updates" : "Edit School Page added (Only UI)"
+      },
+,
+      {
+      "Location" : "EditInfluencerPage",
+      "Updates" : "Edit influencer Page added (Only UI)"
+      },
+,
+      {
+      "Location" : "ForgotPasswordPage",
+      "Updates" : "Forgot Password pages and reset password pages added (Only UI)"
+      },
+,
+      {
+      "Location" : "SettingsPage",
+      "Updates" : "Font, Notifications, Themes, and Languages pages added (Only UI)"
+      },
+   ]
+}
