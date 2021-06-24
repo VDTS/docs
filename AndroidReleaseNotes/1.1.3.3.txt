@@ -1,1 +1,4 @@
-coming soon...
+1: All pages backend code changed to improve performance and reduce crashes.
+2: Firebase Library for login removed, now it use rest API for authentication.
+3: All Pages have EDIT and DELETE functionalities except Family and Child
+4: Change Password functionality added to Edit Profile Page.
