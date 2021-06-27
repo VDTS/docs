@@ -1,0 +1,5 @@
+1: Changing email functionality added
+2: Verifying email functionality added
+3: Password reset [forgot password] functionality added
+4: Profile not found exception handled
+5: Exceptions that occured while editing, adding or deleting items in offline mode.
