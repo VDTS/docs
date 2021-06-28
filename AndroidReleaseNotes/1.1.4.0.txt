@@ -1,0 +1,5 @@
+1: Profile Edit Feature
+2: Pashto added to App Internalization
+3: Child and Family delete features
+4: MaterialDesignIcons to some pages
+5: Feedback process changed and due to privacy, it won't pick device info.
