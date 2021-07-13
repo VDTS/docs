@@ -1,0 +1,5 @@
+1: DataBinding changed to Compiled data binding, this improves app performance by 8x
+2: Fluent Data Validation
+3: Only Current Vaccine delete and edit allowed in its vaccine period
+4: DateTime picks the right local time
+5: Exceptions handled and bugs resolved
