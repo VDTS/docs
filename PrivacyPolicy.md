@@ -1,4 +1,5 @@
 # Privacy Policy
+version: 1.0 beta
 - Tracking users __GPS__ information for detecting fraud behavior in fields  
 - __Collecting device information__ of users for feedback; device number, device version and platform for diagnosing which device can cause affliction to the Application.  
 - In case of crashes in the app, the complete __diagnostic information__ will be sent to the maintenance team.  
